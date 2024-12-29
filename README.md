@@ -19,19 +19,7 @@
 
 💬Usually not, but this auto clicker is undetectable!
 
-## ⛑Support
-
-### ⛑Get help on [my discord server!](https://discord.gg/jvnQJxHs)!
-
 ## 🔨Authors
 
 - [@Python-Big-Developer](https://www.github.com/Python-Big-Developer) - Owner
-- If you want to join the team, join the [discord server](https://discord.gg/jvnQJxHs) and create a ticket!
-  
-## 🔗 Links
 
-### [Polish Programs](https://discord.gg/jvnQJxHs) My discord server!
-
-## ⭐Feedback
-
-#### 👍If you have any feedback, please reach out to us at [my discord server](https://discord.gg/jvnQJxHs)!
